@@ -10,7 +10,7 @@ Here's a robotic arm I built from scratch.
 
 # Basic wiring
 
-![ScreenShot](https://raw.github.com/seanngpack/3D-Printed-Robotic-Arm/tree/master/Photos/PiStepper03.png)
+![ScreenShot](https://github.com/seanngpack/3D-Printed-Robotic-Arm/blob/master/Photos/PiStepper03.png)
 
 ## Credits
 Thank you to Alistair Wick for letting us use and modify his inverse kinematics algorithms
