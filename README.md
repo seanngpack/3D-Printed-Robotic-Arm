@@ -8,5 +8,9 @@ Here's a robotic arm I built from scratch.
 * [John Nguyen](http://github.com/johnnguyen2020)
 * Me
 
+# Basic wiring
+
+![Here's how to wire the stepper](https://github.com/seanngpack/3D-Printed-Robotic-Arm/tree/master/Photos/PiStepper03.png)
+
 ## Credits
 Thank you to Alistair Wick for letting us use and modify his inverse kinematics algorithms
