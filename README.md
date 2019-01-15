@@ -5,7 +5,7 @@ Here's a robotic arm I built from scratch.
 [Check out the build process here](https://www.seanngpack.com/3D-printed-robotic-arm/)
 
 ## Team Members
-* [John Nguyen](http://github.com)
+* [John Nguyen](http://github.com/johnnguyen2020)
 * Me
 
 ## Credits
