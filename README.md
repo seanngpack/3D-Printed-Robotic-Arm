@@ -1,4 +1,6 @@
 # 3D_printed_robot
+![render](https://github.com/seanngpack/3D-Printed-Robotic-Arm/blob/master/Photos/image5.jpg) ![render](https://github.com/seanngpack/3D-Printed-Robotic-Arm/blob/master/Photos/image6.jpg)
+
 
 ## About
 Here's a robotic arm I built from scratch.
