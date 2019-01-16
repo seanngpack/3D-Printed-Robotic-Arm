@@ -1,5 +1,9 @@
 # 3D_printed_robot
-![render](https://github.com/seanngpack/3D-Printed-Robotic-Arm/blob/master/Photos/image5.jpg) ![render](https://github.com/seanngpack/3D-Printed-Robotic-Arm/blob/master/Photos/image6.jpg)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![render](https://github.com/seanngpack/3D-Printed-Robotic-Arm/blob/master/Photos/image5.jpg))  |   ![render](https://github.com/seanngpack/3D-Printed-Robotic-Arm/blob/master/Photos/image6.jpg)
+
 
 
 ## About
